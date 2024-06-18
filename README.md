@@ -6,9 +6,7 @@ The Job of the purchasing department is to for departments to provide documentat
 Goods/Services, Technology, Scientific, and Construction.
 
 ## Diving into the Purchasing Requisitions
-I am going to talk about the number of requisitions and their amount that have been processed in the past from 2018 year by year going from all purchasing to strategic partnerships which is the team I am in, to specially myself by importing the CSV file into the SQL Database and answer some questions using queries
-Note: It is encouraged to zoom into the screenshots
-
+I am going to talk about the number of requisitions and their amount that have been processed in the past from 2018 year by year going from all purchasing to strategic partnerships which is the team I am in, to specially myself by creating a dashboard in PowerBI and answering some question.
 
 ## What is the Total Number of Requisitions Overall ? 
 

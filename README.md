@@ -2,6 +2,15 @@
 
 <img width="1494" alt="Requisitions Overall From 2018-2024" src="https://github.com/user-attachments/assets/8859e362-f1ef-404e-8c57-c6d49194e0b9">
 
+## Procurement Specialist Role
+My role title is a Strategic Partnerships Procurement Specialist. My role is to assist departments with purchasing goods and services. I will answer department emails on purchasing related questions and either answer them or guide them to the right person and department. My main job is to process requisitions. Requisition means a request to order the goods or services from the department.
+The Job of the purchasing department is to for departments to provide documentation that their purchase complies with the law and the purchasing manual. That is what a procurement method is, and we try to find a procurement method for a department’s purchase. If the departments provide the right documentation, we use a procurement method and then we generate POs for the supplier and have terms and conditions in which the supplier accepts. This role is basically purchasing compliance. There is a Construction and Sourcing team. Before the purchasing reorganization before fiscal year 2023 the teams within Purchasing were 
+Goods/Services, Technology, Scientific, and Construction.
+
+## Diving into the Purchasing Requisitions
+I am going to talk about the number of requisitions and their amount that have been processed in the past from 2018 year by year going from all purchasing to strategic partnerships which is the team I am in, to specially myself by creating data vizualization  and answer some questions using yusing data visuzulauzation that is created using PowerBi.
+
+Note: It is encouraged to zoom into the screenshots
 
 ## What is the Total Number of Requisitions Overall ?
  <img width="514" alt="Total Number of all Requisitions since 2018" src="https://github.com/user-attachments/assets/6711fac0-47b3-4fb1-9838-fcef5ed7b01f">

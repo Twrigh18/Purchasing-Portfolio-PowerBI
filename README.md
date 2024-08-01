@@ -214,24 +214,28 @@ The average amount I did on requisitions is around **$6,438.09**. This proves a 
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Goods and Services ?
 
+<img width="1460" alt="Total Number Amount of all MY Requisitions that used Goods and Services" src="https://github.com/user-attachments/assets/c7271f4c-d6fb-458f-ad7b-a2589f20e956">
 
 
 For the Purchasing Department to generate purchase orders that is needed to go to the supplier that automatically accepts ASU terms and conditions in order to be used as a contract, departments will choose the requisition types of Goods and Services, Chemical, or Technology. I generated **1103** Purchase Orders from requisitions that use Goods and Services. Strategic Partnerships don’t get as much requisitions that uses goods and services because departments will sometimes want to purchase to issue Purchase Orders that are of high dollar amounts and then want to pay for each of the goods and services separately with the requisition type of Pay an Invoice.
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Technology?
 
+<img width="1462" alt="Total Number Amount of all MY Requisitions that used Technology" src="https://github.com/user-attachments/assets/97d5adb9-923b-4dd4-bc7e-02b67ac78cc7">
 
 
 I have processed **252** requisitions that use the requisition type of technology. That means 252 purchase orders have been issued. They are treated the same as goods and services, but they just require a security review while goods and services don’t. 
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Pay an Invoice ?
 
+<img width="1463" alt="Total Number Amount of all MY Requisitions that used Pay an Invoice" src="https://github.com/user-attachments/assets/382b1e85-ba3f-43e5-a4d8-c23e043e9726">
 
 
 A Pay an Invoice requisition type is used for purchases or services that have already happened. Suppliers will provide departments with an invoice and purchasing checks if departments provide an invoice document. I have done **5,279** requisitions that are Pay an Invoice any amounts. Purchasing must approve Pay an Invoice requisition for departments to pay for their purchases. Pay an Invoice is that requestion type that I approved the most. The Pay an Invoice requisitions is the requisition type that our team Strategic Partnerships sees the most. Purchasing always want departments to generate PO before using Pay an Invoice.
 
 ## How Many Requisitions I Have Processed That Used Other Requisition Types?
 
+<img width="1459" alt="Total Number Amount of all MY Requisitions that used other" src="https://github.com/user-attachments/assets/a64d5d43-4a01-44b9-9202-0be28691f306">
 
 
 I have processed **72** requisitions of the other requisition types. All the other requestions type route to different teams within Purchasing. The only other requisition type that Strategic Partnerships do is Chemical. These go to material management after approval. The chemical orders are chemicals that are hazardous if people are not careful handling it. These requisitions are rare to see, but are treated just like a Goods and Services Requisitions. 

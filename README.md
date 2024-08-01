@@ -1,32 +1,42 @@
 # Purchasing-Portfolio-PowerBI
 
-<img width="1495" alt="Requisitions Dashboard" src="https://github.com/Twrigh18/Purchasing-Portfolio-PowerBI/assets/97319435/8202bd57-fc35-453e-95af-a0ef8406d345">
+<img width="1494" alt="Requisitions Overall From 2018-2024" src="https://github.com/user-attachments/assets/8859e362-f1ef-404e-8c57-c6d49194e0b9">
+
 
 ## What is the Total Number of Requisitions Overall ?
- 
+ <img width="514" alt="Total Number of all Requisitions since 2018" src="https://github.com/user-attachments/assets/6711fac0-47b3-4fb1-9838-fcef5ed7b01f">
+
 In the entire purchasing department, 479,700 requisitions have been created since 2018. That is a lot of requisitions.
 
 ## What is the Total Amounts of All Requisitions Overall?
+<img width="589" alt="Total Amount of all Requisitions since 2018" src="https://github.com/user-attachments/assets/9a1388c8-19e1-49b2-8bb8-21981af6380d">
  
 The amount from all the requisitions adds up to a total of $4,689,165,959.68. So, all departments at ASU spent a total of almost 5 billion dollars since the start of fiscal year 2018.
 
 ## How Many Requisitions Were Processed Under $25,000 ?
+<img width="511" alt="Total Number of all Requisitions under 25,000-1" src="https://github.com/user-attachments/assets/7b76f468-6c5c-4ccf-a51b-dbea02cda48d">
 
 All Departments submitted 463,248 requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall.
 
 ## What is The Total Amount of All Requisitions Under $25,000 ?
+<img width="525" alt="Total Amount of all Requisitions under 25,000" src="https://github.com/user-attachments/assets/cd910b74-4048-4ebc-a761-4061bbe94f89">
  
 Departments spent around $702,508,727.80 on orders that are under $25,000.
+<img width="1499" alt="Total Number Amount of all Requisitions under 25,000" src="https://github.com/user-attachments/assets/99ab095f-ea9b-4138-bb40-08d8b11b7950">
 
 ## How Many Requisitions were Processed Over $25,000 ?
- 
+ <img width="509" alt="Total Number of all Requisitions over 25,000" src="https://github.com/user-attachments/assets/849a4902-1366-4394-9b83-2015ba271a2e">
+
 All Departments submitted 16,452 requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. These even take longer if the requisitions use federal funding. These take longer to do.
 
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
+<img width="596" alt="Total Amount of all Requisitions over 25,000" src="https://github.com/user-attachments/assets/594cff8b-ff1b-454f-80c5-af2b557deffa">
  
 Departments spent around $3,986,657,231.88 on orders that are over $25,000.
+<img width="1497" alt="Total Number Amount of all Requisitions over 25,000" src="https://github.com/user-attachments/assets/6511739b-4cc1-4cf1-b300-e224d5c53caf">
 
 ## How Many Requisitions were Processed between $25,000 and $100,000 ?
+<img width="1464" alt="Total Number Amount of all Requisitions between 25,000 100,000" src="https://github.com/user-attachments/assets/34ca4a5e-8416-416f-8e5a-1d7021192a27">
  
 All Departments submitted 11,952 requisitions that were between $25,000 and $100,000. Strategic Partnerships always process these orders, and these are orders that we should always learn and get better at these. They require more documentation and waiting so these most of the time cannot be processed right away so there is a lot of waiting. These are the types of requisitions Strategic Partnerships always prioritizes. MRO teams sometimes do these amounts. The sourcing team never do this amount since they are over $100,000 and rarely construction team process these requisitions.
 

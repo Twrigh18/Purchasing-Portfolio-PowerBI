@@ -151,11 +151,13 @@ rchases will increase but more slowly in the long run.
 
 # How Many Requisitions I have Processed since I started at ASU ?
 
+<img width="511" alt="MY Requisitions Overall " src="https://github.com/user-attachments/assets/c1f9b21d-4518-4035-bc87-ed4fbf386caf">
 
 
 I have processed **6,706** requisitions since starting in the ASU purchasing department. That is a lot of requisitions processed. 
 
 ## What Is the Total Amount of All of the Requisitions I Have Processed Since Starting at ASU ?
+<img width="490" alt="Total Amount of all MY Requisitions since 2018" src="https://github.com/user-attachments/assets/94767f11-8af9-4940-98ca-19e116251be3">
 
 
 
@@ -236,6 +238,8 @@ I have processed **72** requisitions of the other requisition types. All the oth
 
 ## How Many Requisitions I Have Processed Every Year?
 
+<img width="830" alt="Total Number of all MY Requisitions per year since 2018" src="https://github.com/user-attachments/assets/ea8a5039-7152-4604-b9b1-cbade8f19453">
+
 
 * 2022 – **2069** requisitions have been processed by me in 2022
 * 2023 – **4068** requisitions have been processed by me in 2023
@@ -245,6 +249,7 @@ The trend is that the number of requisitions that I have been processing have in
 
 ## What Is the Total Amount for All the Requisitions I Have Processed Per Year ?
 
+<img width="829" alt="Total Amount of all MY Requisitions per year since 2018" src="https://github.com/user-attachments/assets/6e203f0f-66c1-481e-abc4-7d8a30d933d2">
 
 
 * 2022 – Departments spent **$5,660,838.79** so around 5 million dollars with the requisitions that I have processed in 2022.

@@ -165,6 +165,7 @@ Departments spent **$43173807.00** so around 25 million dollars with the requisi
 
 ## How Many Requisitions That I have Processed That are Under $25,000?  
 
+<img width="1465" alt="Total Number Amount of all MY Requisitions under $25,000" src="https://github.com/user-attachments/assets/a6c43778-7a78-4840-8f37-45a7ba0cefb4">
 
 
 I have processed **6,189** requisitions that are $25,000 and under. These represent most of the department’s purchases. I have move away from processing these the longer I work in purchasing. If I do an under $25,000 requisitions, it would be the oldest one first
@@ -177,6 +178,7 @@ Departments spent **$16802536.13** on purchases that goes to me under $25,000.
 
 ##  How Many Requisitions That I have Processed That are Over $25,000? 
 
+<img width="1460" alt="Total Number Amount of all MY Requisitions over $25,000" src="https://github.com/user-attachments/assets/e0791910-b9c6-40fe-ac69-c5e3e4c969ba">
 
 
 I have processed **517** requisitions over $25,000. High dollars requisitions are more time consuming because they require more documentation and if the purchases use federal money, then even more documentation is needed so that the departments justify their purchase. That involves reaching out to the department to obtain more documentation. Processing high dollar requisitions is the biggest priority for the Strategic Partnerships team in that we get trained in how to do these first before going to low dollar. These requisitions have a steeper learning curve with learning which documentation is needed but are easy to master eventually. The hardest part is making sure departments have the right documentations because they don’t always provide what we wanted.
@@ -191,26 +193,18 @@ Departments spent **26371270.87** on purchases that goes to me over $25,000.
 
 ## How Many Requisitions That I have Processed That are Over $100,000?
 
+<img width="1460" alt="Total Number Amount of all MY Requisitions over $100,000" src="https://github.com/user-attachments/assets/c47d4770-6e11-47b5-aa63-8a3e391e7bb5">
 
 
 I have processed **zero** requisitions that are over $100,000. The reason for this is because requisitions over $100,000 do not go to our team in Strategic Partnerships. Those over $100,000 requisitions route over to the Sourcing Team in which they exclusively deal with over $100,000 requisitions.
 
 ## What Is the Requisition Lowest Amount I did?
+<img width="1460" alt="MY Requisitions lowest amount" src="https://github.com/user-attachments/assets/26fcf27c-3989-4699-a545-7e39ef844b7f">
 
  
 The lowest amount I have done on a requestions is **zero** dollars. Those requestions can either be a zero-dollar discount, Attachments or anything written the requisition needs to go to the suppler after the purchase order is generated, an agreement need to be signed and sent to the supplier or an agreement term needs to be extended. 
 
-## What Is the Requisition Highest Amount I did?
 
-
-
-The lowest amount I have done on a requestions is **$100,000** dollars. It is close to $100,000. This is a lot of money. I have seen some requisitions that are exactly $100,000 that reach strategic partnerships. We usually reassign those requisitions to the sourcing team.
-
-## What is the Average Total Amount of Requisitions Overall I did ?
-
-
-
-The average amount I did on requisitions is around **$6,438.09**. This proves a majority of requisitions that come to Strategic Partnerships are under $25,000. 
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Goods and Services ?
 

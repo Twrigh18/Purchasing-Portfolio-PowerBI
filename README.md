@@ -13,38 +13,47 @@ I am going to talk about the number of requisitions and their amount that have b
 Note: It is encouraged to zoom into the screenshots
 
 ## What is the Total Number of Requisitions Overall ?
+
  <img width="514" alt="Total Number of all Requisitions since 2018" src="https://github.com/user-attachments/assets/6711fac0-47b3-4fb1-9838-fcef5ed7b01f">
 
 In the entire purchasing department, 479,700 requisitions have been created since 2018. That is a lot of requisitions.
 
 ## What is the Total Amounts of All Requisitions Overall?
+
 <img width="589" alt="Total Amount of all Requisitions since 2018" src="https://github.com/user-attachments/assets/9a1388c8-19e1-49b2-8bb8-21981af6380d">
  
 The amount from all the requisitions adds up to a total of $4,689,165,959.68. So, all departments at ASU spent a total of almost 5 billion dollars since the start of fiscal year 2018.
 
 ## How Many Requisitions Were Processed Under $25,000 ?
+
 <img width="511" alt="Total Number of all Requisitions under 25,000-1" src="https://github.com/user-attachments/assets/7b76f468-6c5c-4ccf-a51b-dbea02cda48d">
 
 All Departments submitted 463,248 requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall.
 
 ## What is The Total Amount of All Requisitions Under $25,000 ?
+
 <img width="525" alt="Total Amount of all Requisitions under 25,000" src="https://github.com/user-attachments/assets/cd910b74-4048-4ebc-a761-4061bbe94f89">
  
 Departments spent around $702,508,727.80 on orders that are under $25,000.
+
 <img width="1499" alt="Total Number Amount of all Requisitions under 25,000" src="https://github.com/user-attachments/assets/99ab095f-ea9b-4138-bb40-08d8b11b7950">
 
 ## How Many Requisitions were Processed Over $25,000 ?
+
  <img width="509" alt="Total Number of all Requisitions over 25,000" src="https://github.com/user-attachments/assets/849a4902-1366-4394-9b83-2015ba271a2e">
 
 All Departments submitted 16,452 requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. These even take longer if the requisitions use federal funding. These take longer to do.
 
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
+
 <img width="596" alt="Total Amount of all Requisitions over 25,000" src="https://github.com/user-attachments/assets/594cff8b-ff1b-454f-80c5-af2b557deffa">
  
 Departments spent around $3,986,657,231.88 on orders that are over $25,000.
+
 <img width="1497" alt="Total Number Amount of all Requisitions over 25,000" src="https://github.com/user-attachments/assets/6511739b-4cc1-4cf1-b300-e224d5c53caf">
 
 ## How Many Requisitions were Processed between $25,000 and $100,000 ?
+
 <img width="1464" alt="Total Number Amount of all Requisitions between 25,000 100,000" src="https://github.com/user-attachments/assets/34ca4a5e-8416-416f-8e5a-1d7021192a27">
  
 All Departments submitted 11,952 requisitions that were between $25,000 and $100,000. Strategic Partnerships always process these orders, and these are orders that we should always learn and get better at these. They require more documentation and waiting so these most of the time cannot be processed right away so there is a lot of waiting. These are the types of requisitions Strategic Partnerships always prioritizes. MRO teams sometimes do these amounts. The sourcing team never do this amount since they are over $100,000 and rarely construction team process these requisitions.
@@ -55,20 +64,24 @@ All Departments submitted 11,952 requisitions that were between $25,000 and $100
 All Departments submitted 4,574 requisitions that were over $100,000. These requisitions require suppliers that have formal solicitations or have a sole source. Departments really have to check if an order is going to go over $100,000
 
 ## What Is the Total Amount of All Requisitions Over $100,000 ?
+
 <img width="569" alt="Total Amount of all Requisitions over 100,000" src="https://github.com/user-attachments/assets/cf340cef-f42b-46ac-a4f3-e4be91583f89">
 <img width="1495" alt="Total Number Amount of all Requisitions over 100,000" src="https://github.com/user-attachments/assets/4f835ed5-a3b2-4eb8-98e5-73197f45d234">
  
 Departments spent around $3,400,642,325.94 on orders that are over $100,000.
 
 ## How Many Requisitions were Processed Over $1,000,000 ?
+
 <img width="488" alt="Total Number of all Requisitions over 1,000,000" src="https://github.com/user-attachments/assets/f376459c-c8c2-44c8-ad98-b866a02d5a5c">
  
 All Departments submitted 412 requisitions that were over $1,000,000. These are treated as requisitions over $100,000. This is a lot of many so purchasing must be careful and not make any mistakes on these purchases.
 
 ## What Is the Total Amount of All Requisitions Over $1,000,000 ?
+
 <img width="559" alt="Total Amount of all Requisitions over 1,000,000" src="https://github.com/user-attachments/assets/2ae737da-916a-49fb-a8a9-4da9dedec712">
  
 Departments spent around $2,293,023,530.86 on orders that are over $1,000,000.
+
 <img width="1468" alt="Total Number Amount of all Requisitions over 1,000,000" src="https://github.com/user-attachments/assets/9fbb95ee-249d-486a-b739-bf3d46ee2912">
 
 ## What is the Requisition Lowest Amount ?

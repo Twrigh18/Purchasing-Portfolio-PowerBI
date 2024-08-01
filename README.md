@@ -109,19 +109,6 @@ Departments have submitted around 60,890 requisitions totaling around $353,743,7
 
 Departments have submitted around 46,389 requisitions totaling around $1,134,160,935.89 that uses the requisition types other than Goods and Services, Pay an Invoice, and technology. Construction and MRO team are the ones that use the other requisition types. My team in strategic partnerships will rarely use the Chemical requisition type and those get routed to materials management after approval. The department chooses a requisition type based on the purchases and that requisition will route to a purchasing team based on the requisition type. Departments should always reach out to purchasing if they are not too sure if the requisition type is the right one.
 
-## What are the Different Types of Requisition Types Being Used ?
- 
-There are 17 different types of Requisition type is displayed in a table
-## What are the Top 17 Requisition Types by Count from Largest to Smallest with Their Total Amounts Included not in Order ?
- 
-The results match some of the questions of finding how many requisitions were processed using different Requisition Types. The Top 3 Requisition Types by count are Goods and Services, Pay an Invoice, and Technology. My team strategic partnerships and the sourcing team deals with these requisition types the most on a daily basis. MRO team deals with non-stock facilities and inventory replenishment. Chemical and Specialty Gas goes to materials management. Construction team deals with the rest and those require different documentations and requirements based on the purchase
-## What are the Top 17 Requisition Type Total Amounts from Largest to Smallest with Their Total Number of Requisitions Included not in Order ?
- 
-Goods and Services is on the top since this a requisition type department should always use to generate PO before using Pay in Invoice to pay for the purchase. Many requisition types start appearing near the top that deal with construction due to the nature of their purchases. These purchases absolutely need a Purchase Order generated in order to protect the departments especially with how expensive these purchases order.
-
-## What are the Top Requestors by the Total Number of Requisitions Submitted using HAVING clause?
- 
-There are 5,248 different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 ## How Many Requisitions Went to the Purchasing Department since 2018 ?
 <img width="1464" alt="Total Number of all Requisitions that went to purchasing" src="https://github.com/user-attachments/assets/b4deec25-3e67-4bdd-9daf-70a908b108ba">
  

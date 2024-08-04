@@ -194,8 +194,6 @@ The busiest month is late summer which is the month July, August, and September.
 
 The least busy months are December and June. The reason for December is because departments would have already been purchasing things needed for the spring school year so it would be departments trying to pay invoices and most of the faculty is and staff will be on holidays and some days the university would be closed so there is less staff at the University during the month of December. The reason for June is the end of a fiscal year overall. Departments want to issue new purchase orders for the new fiscal year, but they are unable to do it until the first day of July and departments are busy doing whatever the need to do for financial wise year end, so they are less likely to create requisitions during the month of June.
 
-Busy months by amount is july is becasue the dollar amounts need to br high. All the other months can be either departments paying the invoices or genearteing PO that doesnt have the tertms. Juanry is the second busiest month becasue departments needs to purchaes things for the sprinf school years. All other months vary depending on the depatment needs
-
 
 <img width="831" alt="Total Amount of all Requisitions per month since 2018" src="https://github.com/user-attachments/assets/58032137-a479-46b9-8b8e-6ae5481f0e11">
 

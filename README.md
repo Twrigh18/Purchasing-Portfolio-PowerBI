@@ -123,32 +123,19 @@ Departments spent around **$2,293,023,530.86** on orders that are over $1,000,00
 
 ## What is the Requisition Lowest Amount ?
 
- 
-The lowest amount on a requisition is **-11.96** or around -$12 dollars. This means that the requisition had so many discounts to the point where the supplier gave back the department 12 dollars.
-
-
-## What Kind of Requisition Is the Lowest Amount ?
-
 
 <img width="1467" alt="Requisitions lowest amount" src="https://github.com/user-attachments/assets/d9c56c15-1d74-4a80-bd72-f88653ed7aa4">
 
 
-This is a pay an invoice requisition. From pulling this up in Workday. This requisition is textbook purchases for student athletes each team like Football Basketball Baseball etc. for SDA. There were around 13 discounts out of 21 different teams that had textbook purchases for student athletes that made the total on the requisition around -12 dollars. Note this is the only requisition with a negative amount.
+The lowest amount on a requisition is **-11.96** or around -$12 dollars. This means that the requisition had so many discounts to the point where the supplier gave back the department 12 dollars. This is a pay an invoice requisition. From pulling this up in Workday. This requisition is textbook purchases for student athletes each team like Football Basketball Baseball etc. for SDA. There were around 13 discounts out of 21 different teams that had textbook purchases for student athletes that made the total on the requisition around -12 dollars. Note this is the only requisition with a negative amount.
 
 
 ## What Is the Requisition Highest Amount ?
 
- 
-The highest amount on a requisition is $139,066,673. That is a lot of money for a purchase. I am guessing this is a construction purchase
-
-
-## What Kind of Requisition Is the Highest Amount ?
-
- 
-This requisition is for construction services for the new building lab called Interdisciplinary Science and Technology Building (ISTB 12) at the Polytechnic campus. There is probably lots of fancy lab equipment that needs to be installed. Anything with science orders is more expensive.
 
 <img width="1467" alt="Requisitions highest amount" src="https://github.com/user-attachments/assets/5524c659-678e-4c0f-bf5a-78371d304287">
 
+The highest amount on a requisition is $139,066,673. That is a lot of money for a purchase. I am guessing this is a construction purchase. This requisition is for construction services for the new building lab called Interdisciplinary Science and Technology Building (ISTB 12) at the Polytechnic campus. There is probably lots of fancy lab equipment that needs to be installed. Anything with science orders is more expensive.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Goods and Services ?
 
@@ -156,7 +143,7 @@ This requisition is for construction services for the new building lab called In
 <img width="1464" alt="Total Number Amount of all Requisitions that used Goods and Services" src="https://github.com/user-attachments/assets/9fcc898d-7888-45df-9a00-d77038a0d568">
 
 
-Departments have submitted around **337,564** requisitions totaling around $2,137,782,764.41 that uses the requisition type of Goods and Services. This is an important requisition type. This requisition type generates a purchase order after a requisition gets approved to go to supplier as a contract and the supplier automatically accepts ASU terms and conditions. When a supplier disagrees with some or all of the ASU terms and conditions in the PO, the supplier will create a contract with their terms and conditions and purchasing will sign off adding ASU terms and conditions and if the supplier still disagrees, the contracts team will specialize in negotiations of the contracts. The purchase order protects ASU and departments if the orders or services go wrong. The total amount for each requisition type is from a query that is coming up.
+Departments have submitted around **337,564** requisitions totaling around $2,394,036,134.45 that uses the requisition type of Goods and Services. This is an important requisition type. This requisition type generates a purchase order after a requisition gets approved to go to supplier as a contract and the supplier automatically accepts ASU terms and conditions. When a supplier disagrees with some or all of the ASU terms and conditions in the PO, the supplier will create a contract with their terms and conditions and purchasing will sign off adding ASU terms and conditions and if the supplier still disagrees, the contracts team will specialize in negotiations of the contracts. The purchase order protects ASU and departments if the orders or services go wrong. The total amount for each requisition type is from a query that is coming up.
 
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Technology ?
@@ -165,7 +152,7 @@ Departments have submitted around **337,564** requisitions totaling around $2,13
 <img width="1466" alt="Total Number Amount of all Requisitions that used Technology" src="https://github.com/user-attachments/assets/0788c1a1-e4ef-4a6f-97df-5b2e7dc436dc">
 
 
-Departments have submitted around **34,674** requisitions totaling around $593,431,625.50 that uses the requisition type of Technology. Technology operates the same way as using Goods and Services. What makes this requisition type different is that these require security review so these will be provided in requisition before or after approval but are provided before the orders need payment. Pay an invoice of technology purchases has a security review alert so the orders get counted under the requisition type of Pay an Invoice. Sometimes these orders will have suppliers wanting subscription agreements signed so the purchasing department must be very careful with what they agree to because their amounts are more, they have terms for 1 to the max of 5 years and many more supplier terms and conditions. Subscription contracts are the contracts that purchasing must be the most careful on.
+Departments have submitted around **34,674** requisitions totaling around $659,388,048.89 that uses the requisition type of Technology. Technology operates the same way as using Goods and Services. What makes this requisition type different is that these require security review so these will be provided in requisition before or after approval but are provided before the orders need payment. Pay an invoice of technology purchases has a security review alert so the orders get counted under the requisition type of Pay an Invoice. Sometimes these orders will have suppliers wanting subscription agreements signed so the purchasing department must be very careful with what they agree to because their amounts are more, they have terms for 1 to the max of 5 years and many more supplier terms and conditions. Subscription contracts are the contracts that purchasing must be the most careful on.
 
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Pay an Invoice ?
@@ -174,7 +161,7 @@ Departments have submitted around **34,674** requisitions totaling around $593,4
 <img width="1462" alt="Total Number Amount of all Requisitions that used Pay an Invoice" src="https://github.com/user-attachments/assets/bbe2c45c-f8eb-4a74-b35c-23169755cd97">
 
 
-Departments have submitted around **60,890** requisitions totaling around $353,743,777.07 that uses the requisition type of Pay an Invoice. Pay in Invoice is used when a service is done after the fact and the services needed to get paid. In the past, there were many departments that would skip over to using Pay an Invoice used of using Goods and Services generating a PO. This is an issue because if the supplier has any issues, they can point to the PO, but if the PO is not there, then that is on the department. We always want departments for us to generate the PO before creating a requisition to pay an invoice.
+Departments have submitted around **60,890** requisitions totaling around $396,948,701.58 that uses the requisition type of Pay an Invoice. Pay in Invoice is used when a service is done after the fact and the services needed to get paid. In the past, there were many departments that would skip over to using Pay an Invoice used of using Goods and Services generating a PO. This is an issue because if the supplier has any issues, they can point to the PO, but if the PO is not there, then that is on the department. We always want departments for us to generate the PO before creating a requisition to pay an invoice.
 
 
 ## How Many Requisitions and Their Total Amounts Used Many Requisition Types Instead of the Ones Mentioned Above ?
@@ -183,7 +170,7 @@ Departments have submitted around **60,890** requisitions totaling around $353,7
 <img width="1466" alt="Total Number Amount of all Requisitions that used other" src="https://github.com/user-attachments/assets/136f4ed6-7827-4eef-af39-e6018b0fee46">
 
 
-Departments have submitted around **46,389** requisitions totaling around $1,134,160,935.89 that uses the requisition types other than Goods and Services, Pay an Invoice, and technology. Construction and MRO team are the ones that use the other requisition types. My team in strategic partnerships will rarely use the Chemical requisition type and those get routed to materials management after approval. The department chooses a requisition type based on the purchases and that requisition will route to a purchasing team based on the requisition type. Departments should always reach out to purchasing if they are not too sure if the requisition type is the right one.
+Departments have submitted around **46,389** requisitions totaling around $1,238,703,045.59 that uses the requisition types other than Goods and Services, Pay an Invoice, and technology. Construction and MRO team are the ones that use the other requisition types. My team in strategic partnerships will rarely use the Chemical requisition type and those get routed to materials management after approval. The department chooses a requisition type based on the purchases and that requisition will route to a purchasing team based on the requisition type. Departments should always reach out to purchasing if they are not too sure if the requisition type is the right one.
 
 
 ## How Many Requisitions Went to the Purchasing Department since 2018 ?
@@ -192,14 +179,28 @@ Departments have submitted around **46,389** requisitions totaling around $1,134
 <img width="1464" alt="Total Number of all Requisitions that went to purchasing" src="https://github.com/user-attachments/assets/b4deec25-3e67-4bdd-9daf-70a908b108ba">
 
 
-**84,363** requisitions went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier.
+**84,363** requisitions totaling $3,754,555,901.48 went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier.
 
 
-## What Are Some Busy Months for Purchasing by Year
+## What Are Some Busy Months for Purchasing Overall
 
 
- <img width="829" alt="Total Number of all Requisitions per month since 2018" src="https://github.com/user-attachments/assets/7aac4bda-6cd0-49d3-a40b-64d64d5abf83">
+<img width="829" alt="Total Number of all Requisitions per month since 2018" src="https://github.com/user-attachments/assets/7aac4bda-6cd0-49d3-a40b-64d64d5abf83">
 
+
+Sorted by highest amount
+* August **45281** Requisitions
+* March **43005** Requisitions
+* October **42668** Requisitions
+* Septembber **42309** Requisitions
+* July **42132** Requisitions
+* Feburary **41875** Requisitions
+* January **40857** Requisitions
+* April **39187** Requisitions
+* May **39118** Requisitions
+* Novemeber **36960** Requisitions
+* June **33965** Requisitions
+* December **32343** Requisitions
 
 This shows how busy it is for both departments and purchasing. It gives an idea of when all departments are likely to purchase things. All the other months vary depending on any department’s needs.
 
@@ -207,9 +208,31 @@ The busiest month is late summer which is the month July, August, and September.
 
 The least busy months are December and June. The reason for December is because departments would have already been purchasing things needed for the spring school year so it would be departments trying to pay invoices and most of the faculty is and staff will be on holidays and some days the university would be closed so there is less staff at the University during the month of December. The reason for June is the end of a fiscal year overall. Departments want to issue new purchase orders for the new fiscal year, but they are unable to do it until the first day of July and departments are busy doing whatever the need to do for financial wise year end, so they are less likely to create requisitions during the month of June.
 
+Busy months by amount
+
 
 <img width="831" alt="Total Amount of all Requisitions per month since 2018" src="https://github.com/user-attachments/assets/58032137-a479-46b9-8b8e-6ae5481f0e11">
 
+
+July
+June
+January
+October 
+Spetember 
+April 
+May 
+Febuary 
+August 
+Decmeber 
+March 
+Novemebrr
+
+## What Are Some Busy Months for Purchasing Departy
+
+<img width="1466" alt="Total Number of all Requisitions that went to purchasing per month" src="https://github.com/user-attachments/assets/4fe02628-68cb-4fc7-905a-ad4c341d6648">
+
+
+July is the busiest becasue . Becasue of the dollar amount, majority of the requistions will route to purchasing 
 
 ## What is the Total Number of Requisitions per year since 2018 ?
 

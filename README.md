@@ -204,35 +204,22 @@ Sorted by highest amount
 
 This shows how busy it is for both departments and purchasing. It gives an idea of when all departments are likely to purchase things. All the other months vary depending on any department’s needs.
 
-The busiest month is late summer which is the month July, August, and September. The reason is that it is the start of the new fiscal year. So, departments create requisitions for a purchase order to be issued for a contract to be made with the supplier so the departments can pay the supplier invoices later using a pay an invoice requisition. It would be about every single department creating requisitions for those to get approved by purchasing the amount of requisitions that reach purchasing during the new fiscal year is enormous. Another reason is that departments spend money on stuff needed for the new school year.
+The busiest month is late summer which is the month July, August, and September. The reason is that it is the start of the new fiscal year. So, departments create requisitions for a purchase order to be issued for a contract to be made with the supplier so the departments can pay the supplier invoices later using a pay an invoice requisition. Many requsitions have pruchases that are for a 1 year terms for example a subscriptions. For those a PO has to be generated during the new fiscal year It would be about every single department creating requisitions for those to get approved by purchasing the amount of requisitions that reach purchasing during the new fiscal year is enormous. Another reason is that departments spend money on stuff needed for the new school year.
 
 The least busy months are December and June. The reason for December is because departments would have already been purchasing things needed for the spring school year so it would be departments trying to pay invoices and most of the faculty is and staff will be on holidays and some days the university would be closed so there is less staff at the University during the month of December. The reason for June is the end of a fiscal year overall. Departments want to issue new purchase orders for the new fiscal year, but they are unable to do it until the first day of July and departments are busy doing whatever the need to do for financial wise year end, so they are less likely to create requisitions during the month of June.
 
-Busy months by amount
+Busy months by amount is july is becasue the dollar amounts need to br high. All the other months can be either departments paying the invoices or genearteing PO that doesnt have the tertms
 
 
 <img width="831" alt="Total Amount of all Requisitions per month since 2018" src="https://github.com/user-attachments/assets/58032137-a479-46b9-8b8e-6ae5481f0e11">
 
 
-July
-June
-January
-October 
-Spetember 
-April 
-May 
-Febuary 
-August 
-Decmeber 
-March 
-Novemebrr
 
-## What Are Some Busy Months for Purchasing Departy
+## What Are Some Busy Months for Purchasing Department
 
 <img width="1466" alt="Total Number of all Requisitions that went to purchasing per month" src="https://github.com/user-attachments/assets/4fe02628-68cb-4fc7-905a-ad4c341d6648">
 
-
-July is the busiest becasue . Becasue of the dollar amount, majority of the requistions will route to purchasing 
+July is the busiest becasue the of the new fiscal year. So, departments create requisitions for a purchase order to be issued for a contract to be made with the supplier so the departments can pay the supplier invoices later using a pay an invoice requisition. Becasue of the dollar amount, majority of the requistions will route to purchasing fro approvals. In amounts July is still the highe st one. The lowest amount is novmeber becasue departmetns are trying to pay the invopioces. Requsityosn get roted to purchsing based on the amount, if it uses federal funds, and the supplier since some suppliers that have contracts with ASU that has a catalog will not route to us and if the invoice from pruicashe orders needs to get paid.
 
 ## What is the Total Number of Requisitions per year since 2018 ?
 

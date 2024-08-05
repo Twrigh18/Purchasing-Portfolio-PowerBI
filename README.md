@@ -94,6 +94,8 @@ All Departments submitted **4,574** requisitions that were over $100,000. These 
 
 
 <img width="569" alt="Total Amount of all Requisitions over 100,000" src="https://github.com/user-attachments/assets/cf340cef-f42b-46ac-a4f3-e4be91583f89">
+
+
 <img width="1495" alt="Total Number Amount of all Requisitions over 100,000" src="https://github.com/user-attachments/assets/4f835ed5-a3b2-4eb8-98e5-73197f45d234">
 
  
@@ -136,6 +138,7 @@ The lowest amount on a requisition is **-11.96** or around -$12 dollars. This me
 <img width="1467" alt="Requisitions highest amount" src="https://github.com/user-attachments/assets/5524c659-678e-4c0f-bf5a-78371d304287">
 
 The highest amount on a requisition is $139,066,673. That is a lot of money for a purchase. I am guessing this is a construction purchase. This requisition is for construction services for the new building lab called Interdisciplinary Science and Technology Building (ISTB 12) at the Polytechnic campus. There is probably lots of fancy lab equipment that needs to be installed. Anything with science orders is more expensive.
+
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Goods and Services ?
 
@@ -197,11 +200,14 @@ The least busy months are December and June. The reason for December is because 
 
 <img width="831" alt="Total Amount of all Requisitions per month since 2018" src="https://github.com/user-attachments/assets/58032137-a479-46b9-8b8e-6ae5481f0e11">
 
+
 The busiest month by requisition amount overall is July because of the new fiscal year. January is the second busiest month because many departments need to purchase things for the spring school year. All other months vary depending on the department’s needs. 
 
 ## What Are Some Busy Months for Purchasing Department
 
+
 <img width="1466" alt="Total Number of all Requisitions that went to purchasing per month" src="https://github.com/user-attachments/assets/4fe02628-68cb-4fc7-905a-ad4c341d6648">
+
 
 July is the busiest because of the new fiscal year. So, departments create requisitions for a purchase order to be issued for a contract to be made with the supplier so the departments can pay the supplier invoices later using a pay an invoice requisition. Because of the high dollar amount, majority of the requisitions will route to purchasing for approvals. August and September are the second highest because departments transition from generating purchase orders to suppliers creating invoices and departments need to pay the invoices and for the fall school year. All other months vary depending on the department’s needs.
 
@@ -246,30 +252,36 @@ rchases will increase but more slowly in the long run.
 
 # How Many Requisitions I have Processed since I started at ASU ?
 
+
 <img width="511" alt="MY Requisitions Overall " src="https://github.com/user-attachments/assets/c1f9b21d-4518-4035-bc87-ed4fbf386caf">
 
 
 I have processed **6,706** requisitions since starting in the ASU purchasing department. That is a lot of requisitions processed. 
 
-## What Is the Total Amount of All of the Requisitions I Have Processed Since Starting at ASU ?
-<img width="490" alt="Total Amount of all MY Requisitions since 2018" src="https://github.com/user-attachments/assets/94767f11-8af9-4940-98ca-19e116251be3">
 
+## What Is the Total Amount of All of the Requisitions I Have Processed Since Starting at ASU ?
+
+
+<img width="490" alt="Total Amount of all MY Requisitions since 2018" src="https://github.com/user-attachments/assets/94767f11-8af9-4940-98ca-19e116251be3">
 
 
 Departments spent **$43,173,807.00** so around 25 million dollars with the requisitions that I have processed.
 
+
 ## How Many Requisitions That I have Processed That are Under $25,000?  
+
 
 <img width="1465" alt="Total Number Amount of all MY Requisitions under $25,000" src="https://github.com/user-attachments/assets/a6c43778-7a78-4840-8f37-45a7ba0cefb4">
 
 
 I have processed **6,189** requisitions that are $25,000 and under. These represent most of the department’s purchases. I have move away from processing these the longer I work in purchasing. If I do an under $25,000 requisitions, it would be the oldest one first
 
+
 ## What Is the Total Amount of All of the Requisitions I Have Processed That are Under $25,000?
 
 
-
 Departments spent **$16,802,536.13** on purchases that goes to me under $25,000.
+
 
 ##  How Many Requisitions That I have Processed That are Over $25,000? 
 
@@ -278,7 +290,9 @@ Departments spent **$16,802,536.13** on purchases that goes to me under $25,000.
 
 I have processed **517** requisitions over $25,000. High dollars requisitions are more time consuming because they require more documentation and if the purchases use federal money, then even more documentation is needed so that the departments justify their purchase. That involves reaching out to the department to obtain more documentation. Processing high dollar requisitions is the biggest priority for the Strategic Partnerships team in that we get trained in how to do these first before going to low dollar. These requisitions have a steeper learning curve with learning which documentation is needed but are easy to master eventually. The hardest part is making sure departments have the right documentations because they don’t always provide what we wanted.
 
+
 The reason the number is lower because purchasing in general doesn’t get a lot of high dollar requisitions in general. Departments would want a PO generated before creating separate requisitions usually low dollar to pay for invoices in which explains why Purchasing gets so many low dollar requisitions. Also, Strategic Partnerships is a huge team. Including myself there are 6 team members not including higher ups. And the work load gets evenly distributed and everyone in the team knows how to process over $25,000 requisitions. The number of requisitions has increased over time and will continue to increase in the future.
+
 
 ## What Is the Total Amount of All of the Requisitions I Have Processed That Are Over $25,000?
 

@@ -59,6 +59,8 @@ Departments spent around **$702,508,727.80** on orders that are under $25,000.
 
 All Departments submitted **16,452** requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. TPurchases that are over $25,000 have public bidding requirements. They require multiple quotes to determine the price is fair and reasonable. We want departments to get one or more quotes from different suppliers for the same good/service they are purchasing and compare them and for them to choose the lowest cost supplier. When a department wants to go with a higher cost supplier or they are unable to obtain another quote, they fill out a form explaining why they choose the supplier. That is how departments meet bidding requirements.
 
+If a department uses a contracted supplier under an RFP that has been through the formal solicitation process using an award ASU has established through competitive bidding, or a cooperative award by another entity like another city, county, state, or anther school like community college or another university within the United States for the specific contacted supplier the department selects for their purchases, the bidding requirements do not apply. Purchasing prefers departments to use contracted suppliers as much they can mainly because those suppliers accepted the ASU terms and conditions automatically but if the department can not use the contracted suppliers, they can use other suppliers as long as they meet the bidding requirements, and the purchases are under $100,000.
+
 
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
 
@@ -87,8 +89,15 @@ All Departments submitted **11,952** requisitions that were between $25,000 and 
 <img width="347" alt="Total Number of all Requisitions over 100,000" src="https://github.com/user-attachments/assets/cd7a069d-56b9-42f0-85a4-4b06b5e51ad9">
 
  
-All Departments submitted **4,574** requisitions that were over $100,000. These requisitions require suppliers that have formal solicitations or have a sole source. Departments really have to check if an order is going to go over $100,000
+All Departments submitted **4,574** requisitions that were over $100,000. The compettive bidding requirements is that suppliers that are slected by departments for their purchases must go through a formal solciciation. If Procurements can be made using an award ASU has established through competitive bidding, or a cooperative or
+consortium agreement, the above requirements do not apply. Meaning suppliers that haver acontract for a s
 
+Departments can request to waive competitive bidding requirements in the form of a Sole Source must be adequately documented by
+the requesting department and is subject to approval by Purchasing. AFter apporval the supplier is a sole source if the department provide the sole souce for their purchases
+
+Departments can also request the competitive bidding requirements for an Emergency Procurement must be adequately
+documented by the requesting department and is subject to approval by Purchasing and Business Services, Office of
+General Counsel and executive leadership. After approval the supplier has a form called a Bid Waiver
 
 ## What Is the Total Amount of All Requisitions Over $100,000 ?
 

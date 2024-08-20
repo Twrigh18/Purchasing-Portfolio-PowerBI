@@ -14,7 +14,7 @@ https://github.com/Twrigh18/Purchasing-Portfolio-SQL/blob/main/README.md
 
 
 ## Diving into the Purchasing Requisitions
-I am going to talk about the number of requisitions and their amount that have been processed in the past from 2018 year by year going from all purchasing to strategic partnerships which is the team I am in, to specially myself by creating data visualization and answer some questions using data visualization that is created using PowerBI.
+I am going to talk about the number of requisitions and their amount that have been processed in the past from 2018 year by year going from all purchasing to strategic partnerships which is the team I am in, to specially myself by creating data visualization and answer some questions using data visualization that is created using PowerBI. For this one, I will start mainly with the requisitions that I processed first and my impact, then overall requisitions get talked about.
 
 Note: It is encouraged to zoom into the screenshots
 

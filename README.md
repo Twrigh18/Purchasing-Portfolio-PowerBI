@@ -7,9 +7,11 @@ My role title is a Strategic Partnerships Procurement Specialist. My role is to 
 The Job of the purchasing department is to for departments to provide documentation that their purchase complies with the law and the purchasing manual. That is what a procurement method is, and we try to find a procurement method for a department’s purchase. If the departments provide the right documentation, we use a procurement method and then we generate POs for the supplier and have terms and conditions in which the supplier accepts. This role is basically purchasing compliance. There is a Construction and Sourcing team. Before the purchasing reorganization before fiscal year 2023 the teams within Purchasing were 
 Goods/Services, Technology, Scientific, and Construction.
 
-## How the data was retireived (Not editad in document yet)
+## How the Purchasing Data was Retrieved  
 
-The data came from the databasr that was created in SQLLite. I used a query to pull all the requsitons data and changing the column names. I exporedted it as a csv file and import it into PowerBI. If you want to see how thew databasde was creating using SQLLite use the link below
+<img width="896" alt="Purchasing Data with cleaner column names" src="https://github.com/user-attachments/assets/b037a4fa-93ee-49f7-902b-82f1c4287741">
+
+The purchasing data came from the database that was created in SQLite. I used a query to pull all the requisition data and change the column names. I exported it as a csv file and imported it into Microsoft Power BI. If you want to see how thew database was created using SQLite, use the link below.
 https://github.com/Twrigh18/Purchasing-Portfolio-SQL/blob/main/README.md
 
 
